@@ -1,0 +1,10 @@
+Django==2.1.15
+django-rest-swagger==2.2.0
+djangorestframework==3.9.4
+djangorestframework-stubs==1.1.0
+flake8==3.6.0
+pillow==7.0.0
+psycopg2-binary==2.8.6
+pycodestyle==2.4.0
+pyflakes==2.0.0
+
